@@ -2,6 +2,9 @@
 body{
     background-color: #EDEDED;
     background-image: url("https://img.17qq.com/images/nmmgmccmlpv.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 /* Navbar */
 .navbar{
