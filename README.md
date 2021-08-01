@@ -2,6 +2,10 @@
 
 https://gongl1.github.io/Web-Design-Challenge/
 
+- - -
+
+© Liang Gong. Confidential and Proprietary. All Rights Reserved.
+
 
 ## Background
 
